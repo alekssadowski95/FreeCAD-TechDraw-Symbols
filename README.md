@@ -15,6 +15,7 @@
 ![](roughness-1-4.svg)
 ![](roughness-1-5.svg)
 ![](roughness-1-6.svg)
+![](roughness-1-6-editable.svg)
 ![](edge.svg)
 ![](edge-all.svg)
 ![](edge-outer.svg)
