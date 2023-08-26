@@ -1,6 +1,6 @@
 # FreeCAD-TechDraw-Symbols
 
-![](roughness-example.png.png)
+![](freecad-technical-drawing-with-annotations-shaft.png)
 
 ## How to use it
 1. Download surface roughness symbol
