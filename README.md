@@ -2,7 +2,7 @@
 
 ![](freecad-technical-drawing-with-annotations-shaft.png)
 
-## How to use it
+## Getting Started
 1. Download surface roughness symbol
 2. Create a Balloon Annotation and remove the balloon and text from that
 3. Import the downloaded surface roughness symbol onto the drawing page and move it to the Balloon Annotation
