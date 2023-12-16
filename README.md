@@ -1,4 +1,5 @@
 # FreeCAD-TechDraw-Symbols
+SVG Symbols for FreeCAD TechDraw technical drawings made in Inkscape
 
 ![](freecad-technical-drawing-with-annotations-shaft.png)
 
